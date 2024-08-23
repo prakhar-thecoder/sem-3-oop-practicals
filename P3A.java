@@ -12,6 +12,8 @@ public class P3A {
         op = sc.next().charAt(0);
         System.out.print("Enter b: ");
         b = sc.nextInt();
+
+        sc.close();
         
         switch (op) {
             case '+':

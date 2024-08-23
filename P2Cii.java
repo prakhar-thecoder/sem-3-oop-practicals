@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-public class P2Cii {
-    public static void main(String[] args) {
-        
-    }
-}
-=======
 public class P2Cii {
     public static void main(String[] args) {
         char c = 'a';
@@ -18,4 +11,3 @@ public class P2Cii {
         }
     }
 }
->>>>>>> 74beb0c369a71f04f0e7ddbfb822ed1cdec58c32

@@ -12,7 +12,7 @@ public class P2A {
             n /= 10;
         }
 
-        if (sum + mul == n) {
+        if (sum + mul == num) {
             System.out.println(num + " is a special number!");
         } else {
             System.out.println(num + " is not a special number!");

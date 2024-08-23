@@ -1,4 +1,4 @@
-public class P2Cv {
+public class P2D {
     public static void main(String[] args) {
         int n = 6;
         
